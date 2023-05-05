@@ -1,0 +1,161 @@
+model,origin,year
+amc concord,US,78
+amc concord d/l,US,78
+amc concord dl 6,US,79
+amc gremlin,US,70
+amc hornet,US,70
+amc hornet sportabout (sw),US,71
+amc matador,US,71
+amc pacer,US,75
+amc pacer d/l,US,76
+amc spirit dl,US,79
+audi 100 ls,EU,70
+audi 100ls,EU,73
+audi 4000,EU,80
+audi fox,EU,74
+bmw 2002,EU,70
+bmw 320i,EU,77
+buick century,US,75
+buick century limited,US,82
+buick century special,US,78
+buick opel isuzu deluxe,US,77
+buick regal sport coupe (turbo),US,78
+buick skyhawk,US,75
+buick skylark,US,77
+buick skylark limited,US,79
+capri ii,US,76
+chevroelt chevelle malibu,US,75
+chevrolet camaro,US,82
+chevrolet cavalier,US,82
+chevrolet cavalier 2-door,US,82
+chevrolet cavalier wagon,US,82
+chevrolet chevelle malibu,US,71
+chevrolet chevelle malibu classic,US,74
+chevrolet chevette,US,76
+chevrolet citation,US,79
+chevrolet concours,US,77
+chevrolet malibu,US,78
+chevrolet nova,US,74
+chevrolet nova custom,US,73
+chevrolet vega,US,72
+chevrolet vega (sw),US,71
+chevrolet vega 2300,US,71
+chevrolet woody,US,76
+chevy s-10,US,82
+chrysler lebaron medallion,US,82
+chrysler lebaron salon,US,81
+dodge aries se,US,82
+dodge aries wagon (sw),US,81
+dodge aspen,US,78
+dodge aspen 6,US,79
+dodge aspen se,US,76
+dodge charger 2.2,US,82
+dodge colt,US,74
+dodge colt (sw),US,72
+dodge colt hardtop,US,72
+dodge colt hatchback custom,US,79
+dodge colt m/m,US,77
+dodge omni,US,78
+dodge rampage,US,82
+fiat 124 sport coupe,EU,73
+fiat 124 tc,EU,74
+fiat 124b,EU,71
+fiat 128,EU,73
+fiat 131,EU,76
+fiat strada custom,EU,79
+fiat x1.9,EU,74
+ford escort 2h,US,81
+ford escort 4w,US,81
+ford fairmont,US,80
+ford fairmont (auto),US,78
+ford fairmont (man),US,78
+ford fairmont 4,US,79
+ford fairmont futura,US,82
+ford fiesta,US,78
+ford granada,US,77
+ford granada ghia,US,76
+ford granada gl,US,81
+ford granada l,US,82
+ford maverick,US,70
+ford mustang,US,71
+ford mustang gl,US,82
+ford mustang ii 2+2,US,77
+ford pinto,US,73
+ford pinto (sw),US,72
+ford pinto runabout,US,72
+ford ranger,US,82
+ford torino 500,US,71
+mercedes-benz 240d,EU,80
+mercedes-benz 280s,EU,76
+mercury capri 2000,US,71
+mercury capri v6,US,73
+mercury lynx l,US,82
+mercury monarch,US,75
+mercury zephyr,US,78
+mercury zephyr 6,US,79
+oldsmobile cutlass ciera (diesel),US,82
+oldsmobile omega brougham,US,79
+oldsmobile starfire sx,US,78
+opel 1900,EU,71
+opel manta,EU,73
+peugeot 304,EU,71
+peugeot 504,EU,70
+peugeot 504 (sw),EU,72
+peugeot 505s turbo diesel,EU,81
+peugeot 604sl,EU,78
+plymouth arrow gs,US,77
+plymouth champ,US,81
+plymouth cricket,US,71
+plymouth duster,US,70
+plymouth fury,US,75
+plymouth horizon,US,79
+plymouth horizon 4,US,81
+plymouth horizon miser,US,82
+plymouth horizon tc3,US,79
+plymouth reliant,US,81
+plymouth sapporo,US,78
+plymouth satellite custom,US,71
+plymouth satellite sebring,US,74
+plymouth valiant,US,73
+plymouth valiant custom,US,75
+plymouth volare,US,78
+plymouth volare custom,US,77
+pontiac astro,US,75
+pontiac firebird,US,71
+pontiac j2000 se hatchback,US,82
+pontiac lemans v6,US,79
+pontiac phoenix,US,79
+pontiac phoenix lj,US,78
+pontiac sunbird coupe,US,77
+pontiac ventura sj,US,76
+renault 12 (sw),EU,72
+renault 12tl,EU,76
+renault 5 gtl,EU,77
+saab 99e,EU,70
+saab 99gle,EU,78
+saab 99le,EU,73
+triumph tr7 coupe,EU,80
+vokswagen rabbit,EU,80
+volkswagen 1131 deluxe sedan,EU,70
+volkswagen 411 (sw),EU,72
+volkswagen dasher,EU,74
+volkswagen jetta,EU,81
+volkswagen model 111,EU,71
+volkswagen rabbit,EU,75
+volkswagen rabbit custom,EU,77
+volkswagen rabbit custom diesel,EU,78
+volkswagen rabbit l,EU,82
+volkswagen scirocco,EU,78
+volkswagen super beetle,EU,73
+volkswagen type 3,EU,72
+volvo 144ea,EU,73
+volvo 145e (sw),EU,72
+volvo 244dl,EU,75
+volvo 245,EU,76
+volvo 264gl,EU,78
+volvo diesel,EU,81
+vw dasher (diesel),EU,80
+vw pickup,EU,82
+vw rabbit,EU,76
+vw rabbit c (diesel),EU,80
+vw rabbit custom,EU,79
